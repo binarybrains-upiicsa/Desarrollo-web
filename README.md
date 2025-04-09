@@ -10,6 +10,6 @@ Si tienes una idea para un nuevo proyecto, ¡también puedes proponérnosla! Est
 
 ## Nuestros proyectos🚀</h2> </summary>
 <div  align="center">
-      <a align="center" href="https://github.com/binarybrains-upiicsa/tooltip-css" title="tooltip-css"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=binarybrains-upiicsa&repo=tooltip-css&theme=tokyonight&border_color=61dafb&border_radius=10"></a>
-            <a align="center" href="https://github.com/binarybrains-upiicsa/basic-dockerfile" title="basic-dockerfile"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=binarybrains-upiicsa&repo=basic-dockerfile&theme=tokyonight&border_color=61dafb&border_radius=10"></a>
+
+<a align="center" href="https://github.com/binarybrains-upiicsa/basic-dockerfile" title="basic-dockerfile"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=binarybrains-upiicsa&repo=basic-dockerfile&theme=tokyonight&border_color=61dafb&border_radius=10"></a>
 </div>
