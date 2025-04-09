@@ -2,7 +2,7 @@
 
 Aquí aprenderás diversas tecnologías para crear distintos tipos de proyectos, desde frontend y backend hasta convertirte en un auténtico **"cada día más fullstack"**.  
 
-Para desarrollar proyectos, utilizamos [roadmap.sh](https://roadmap.sh/projects), una plataforma que proporciona definiciones claras de requerimientos para múltiples proyectos. Esto nos permite enfocarnos en lo que más nos gusta: **escribir código**. 
+Nosotros en esta área nos dedicamos a desarrollar proyectos web, utilizamos [roadmap.sh](https://roadmap.sh/projects), la cual es una plataforma que proporciona definiciones claras de requerimientos para múltiples proyectos. Esto nos permite enfocarnos en lo que más nos gusta: **escribir código**. 
 
 Si tienes una idea para un nuevo proyecto, ¡también puedes proponérnosla! Estamos abiertos a desarrollar juntos cualquier iniciativa, fomentando el espíritu del **open source** 🐧.  
 
